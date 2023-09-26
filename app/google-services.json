@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161829572490",
+    "firebase_url": "https://keiyian-fresh-default-rtdb.firebaseio.com",
+    "project_id": "keiyian-fresh",
+    "storage_bucket": "keiyian-fresh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161829572490:android:8d5fbdec84b26da20fc273",
+        "android_client_info": {
+          "package_name": "com.example.keiyianfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161829572490-nes1i1qe5867611rak2pn5m99vrm4b13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGBiW4SszIlX6pJGdJOJtbPPmv24BtP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161829572490-nes1i1qe5867611rak2pn5m99vrm4b13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
